@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "157595009557",
+    "project_id": "todosbloc-90e80",
+    "storage_bucket": "todosbloc-90e80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157595009557:android:8b4e997ff5d9e43a32441c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_tweet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157595009557-ufoikso7rf8tlase493g0mvgruqambuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA22Y_XtF9aUUbcZYuD0s00Uzyr_LGdLXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157595009557-ufoikso7rf8tlase493g0mvgruqambuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157595009557:android:b8cbce33cb7ade3332441c",
+        "android_client_info": {
+          "package_name": "com.example.todos_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157595009557-12s4r13skm8gt972hvcf9bfkrenbucnv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todos_bloc",
+            "certificate_hash": "5248da2c231847f231945e605175b948d0bcd31a"
+          }
+        },
+        {
+          "client_id": "157595009557-ufoikso7rf8tlase493g0mvgruqambuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA22Y_XtF9aUUbcZYuD0s00Uzyr_LGdLXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157595009557-ufoikso7rf8tlase493g0mvgruqambuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
